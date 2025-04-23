@@ -1,0 +1,343 @@
+{
+  "version": "1.0",
+  "name": "365-Day Wellness Calendar",
+  "description": "A comprehensive wellness calendar focusing on healthspan, lifespan, cognition, resilience, and physical performance",
+  "days": [
+    {
+      "date": "2025-04-23",
+      "meals": {
+        "breakfast": "Green smoothie with spinach, banana, almond butter, and plant protein",
+        "lunch": "Mediterranean bowl with quinoa, chickpeas, cucumber, tomato, and tahini dressing",
+        "dinner": "Baked salmon with roasted Brussels sprouts and sweet potato",
+        "snacks": "Apple with almond butter, Greek yogurt with berries"
+      },
+      "supplements": {
+        "morning": ["Vitamin D3", "Omega-3", "Multivitamin"],
+        "evening": ["Magnesium", "Zinc"]
+      },
+      "exercise": {
+        "summary": "Strength training - Upper body focus",
+        "details": "See exercise program for complete workout"
+      },
+      "habits": [
+        "Meditation - 10 minutes",
+        "Cold shower - 2 minutes",
+        "Read - 30 minutes",
+        "Hydration - 3 liters of water"
+      ],
+      "quote": "The only way to do great work is to love what you do. - Steve Jobs"
+    },
+    {
+      "date": "2025-04-24",
+      "meals": {
+        "breakfast": "Overnight oats with chia seeds, berries, and walnuts",
+        "lunch": "Large salad with mixed greens, grilled chicken, avocado, and olive oil dressing",
+        "dinner": "Grass-fed beef stir fry with broccoli, bell peppers, and brown rice",
+        "snacks": "Handful of mixed nuts, protein shake"
+      },
+      "supplements": {
+        "morning": ["Vitamin D3", "Omega-3", "Multivitamin"],
+        "evening": ["Magnesium", "Zinc"]
+      },
+      "exercise": {
+        "summary": "Cardio - Zone 2 training (30 minutes)",
+        "details": "See exercise program for complete workout"
+      },
+      "habits": [
+        "Meditation - 10 minutes",
+        "Cold shower - 2 minutes",
+        "Journaling - 10 minutes",
+        "Hydration - 3 liters of water"
+      ],
+      "quote": "The greatest wealth is health. - Virgil"
+    },
+    {
+      "date": "2025-04-25",
+      "meals": {
+        "breakfast": "Vegetable omelet with spinach, mushrooms, and goat cheese",
+        "lunch": "Lentil soup with side salad and whole grain bread",
+        "dinner": "Grilled chicken with roasted vegetables and quinoa",
+        "snacks": "Carrot sticks with hummus, dark chocolate square"
+      },
+      "supplements": {
+        "morning": ["Vitamin D3", "Omega-3", "Multivitamin"],
+        "evening": ["Magnesium", "Zinc"]
+      },
+      "exercise": {
+        "summary": "Strength training - Lower body focus",
+        "details": "See exercise program for complete workout"
+      },
+      "habits": [
+        "Meditation - 10 minutes",
+        "Cold shower - 2 minutes",
+        "Deep breathing - 5 minutes",
+        "Hydration - 3 liters of water"
+      ],
+      "quote": "Take care of your body. It's the only place you have to live. - Jim Rohn"
+    },
+    {
+      "date": "2025-04-26",
+      "meals": {
+        "breakfast": "Protein pancakes with berries and maple syrup",
+        "lunch": "Turkey and avocado wrap with side of vegetable soup",
+        "dinner": "Baked cod with asparagus and wild rice",
+        "snacks": "Greek yogurt with honey, apple"
+      },
+      "supplements": {
+        "morning": ["Vitamin D3", "Omega-3", "Multivitamin"],
+        "evening": ["Magnesium", "Zinc"]
+      },
+      "exercise": {
+        "summary": "Mobility and flexibility training",
+        "details": "See exercise program for complete workout"
+      },
+      "habits": [
+        "Meditation - 10 minutes",
+        "Cold shower - 2 minutes",
+        "Nature walk - 20 minutes",
+        "Hydration - 3 liters of water"
+      ],
+      "quote": "Your health is an investment, not an expense. - Unknown"
+    },
+    {
+      "date": "2025-04-27",
+      "meals": {
+        "breakfast": "Avocado toast on whole grain bread with poached eggs",
+        "lunch": "Grilled chicken salad with mixed greens and balsamic vinaigrette",
+        "dinner": "Vegetable stir-fry with tofu and brown rice",
+        "snacks": "Handful of almonds, protein bar"
+      },
+      "supplements": {
+        "morning": ["Vitamin D3", "Omega-3", "Multivitamin"],
+        "evening": ["Magnesium", "Zinc"]
+      },
+      "exercise": {
+        "summary": "Rest day - Light walking and stretching",
+        "details": "See exercise program for complete workout"
+      },
+      "habits": [
+        "Meditation - 15 minutes",
+        "Cold shower - 2 minutes",
+        "Digital detox - 2 hours",
+        "Hydration - 3 liters of water"
+      ],
+      "quote": "Rest and digest. Recovery is where the magic happens. - Unknown"
+    },
+    {
+      "date": "2025-04-28",
+      "meals": {
+        "breakfast": "Smoothie bowl with berries, banana, granola, and almond milk",
+        "lunch": "Quinoa bowl with roasted vegetables and grilled chicken",
+        "dinner": "Wild-caught salmon with steamed broccoli and sweet potato",
+        "snacks": "Hard-boiled eggs, fruit"
+      },
+      "supplements": {
+        "morning": ["Vitamin D3", "Omega-3", "Multivitamin"],
+        "evening": ["Magnesium", "Zinc"]
+      },
+      "exercise": {
+        "summary": "High-intensity interval training (HIIT)",
+        "details": "See exercise program for complete workout"
+      },
+      "habits": [
+        "Meditation - 10 minutes",
+        "Cold shower - 2 minutes",
+        "Gratitude practice - 5 minutes",
+        "Hydration - 3 liters of water"
+      ],
+      "quote": "The body achieves what the mind believes. - Napoleon Hill"
+    },
+    {
+      "date": "2025-04-29",
+      "meals": {
+        "breakfast": "Greek yogurt with berries, nuts, and honey",
+        "lunch": "Tuna salad sandwich on whole grain bread with side salad",
+        "dinner": "Grass-fed beef burger (no bun) with roasted vegetables",
+        "snacks": "Celery with almond butter, protein shake"
+      },
+      "supplements": {
+        "morning": ["Vitamin D3", "Omega-3", "Multivitamin"],
+        "evening": ["Magnesium", "Zinc"]
+      },
+      "exercise": {
+        "summary": "Strength training - Full body workout",
+        "details": "See exercise program for complete workout"
+      },
+      "habits": [
+        "Meditation - 10 minutes",
+        "Cold shower - 2 minutes",
+        "Reading - 30 minutes",
+        "Hydration - 3 liters of water"
+      ],
+      "quote": "Strength does not come from the body. It comes from the will. - Gandhi"
+    },
+    {
+      "date": "2025-04-30",
+      "meals": {
+        "breakfast": "Vegetable frittata with side of fresh fruit",
+        "lunch": "Chicken and vegetable soup with whole grain crackers",
+        "dinner": "Grilled shrimp with zucchini noodles and pesto",
+        "snacks": "Trail mix, cottage cheese with fruit"
+      },
+      "supplements": {
+        "morning": ["Vitamin D3", "Omega-3", "Multivitamin"],
+        "evening": ["Magnesium", "Zinc"]
+      },
+      "exercise": {
+        "summary": "Cardio - Steady state (45 minutes)",
+        "details": "See exercise program for complete workout"
+      },
+      "habits": [
+        "Meditation - 10 minutes",
+        "Cold shower - 2 minutes",
+        "Journaling - 10 minutes",
+        "Hydration - 3 liters of water"
+      ],
+      "quote": "The difference between try and triumph is a little umph. - Marvin Phillips"
+    },
+    {
+      "date": "2025-05-01",
+      "meals": {
+        "breakfast": "Protein smoothie with spinach, berries, and plant protein",
+        "lunch": "Buddha bowl with quinoa, roasted vegetables, and tahini dressing",
+        "dinner": "Baked chicken with roasted Brussels sprouts and sweet potato",
+        "snacks": "Apple with almond butter, Greek yogurt with berries"
+      },
+      "supplements": {
+        "morning": ["Vitamin D3", "Omega-3", "Multivitamin"],
+        "evening": ["Magnesium", "Zinc"]
+      },
+      "exercise": {
+        "summary": "Strength training - Upper body focus",
+        "details": "See exercise program for complete workout"
+      },
+      "habits": [
+        "Meditation - 10 minutes",
+        "Cold shower - 2 minutes",
+        "Deep breathing - 5 minutes",
+        "Hydration - 3 liters of water"
+      ],
+      "quote": "The only bad workout is the one that didn't happen. - Unknown"
+    },
+    {
+      "date": "2025-05-02",
+      "meals": {
+        "breakfast": "Overnight oats with chia seeds, berries, and walnuts",
+        "lunch": "Large salad with mixed greens, grilled chicken, avocado, and olive oil dressing",
+        "dinner": "Grass-fed beef stir fry with broccoli, bell peppers, and brown rice",
+        "snacks": "Handful of mixed nuts, protein shake"
+      },
+      "supplements": {
+        "morning": ["Vitamin D3", "Omega-3", "Multivitamin"],
+        "evening": ["Magnesium", "Zinc"]
+      },
+      "exercise": {
+        "summary": "Cardio - Zone 2 training (30 minutes)",
+        "details": "See exercise program for complete workout"
+      },
+      "habits": [
+        "Meditation - 10 minutes",
+        "Cold shower - 2 minutes",
+        "Nature walk - 20 minutes",
+        "Hydration - 3 liters of water"
+      ],
+      "quote": "Your body hears everything your mind says. - Naomi Judd"
+    },
+    {
+      "date": "2025-05-03",
+      "meals": {
+        "breakfast": "Vegetable omelet with spinach, mushrooms, and goat cheese",
+        "lunch": "Lentil soup with side salad and whole grain bread",
+        "dinner": "Grilled chicken with roasted vegetables and quinoa",
+        "snacks": "Carrot sticks with hummus, dark chocolate square"
+      },
+      "supplements": {
+        "morning": ["Vitamin D3", "Omega-3", "Multivitamin"],
+        "evening": ["Magnesium", "Zinc"]
+      },
+      "exercise": {
+        "summary": "Strength training - Lower body focus",
+        "details": "See exercise program for complete workout"
+      },
+      "habits": [
+        "Meditation - 10 minutes",
+        "Cold shower - 2 minutes",
+        "Gratitude practice - 5 minutes",
+        "Hydration - 3 liters of water"
+      ],
+      "quote": "The greatest wealth is health. - Virgil"
+    },
+    {
+      "date": "2025-05-04",
+      "meals": {
+        "breakfast": "Protein pancakes with berries and maple syrup",
+        "lunch": "Turkey and avocado wrap with side of vegetable soup",
+        "dinner": "Baked cod with asparagus and wild rice",
+        "snacks": "Greek yogurt with honey, apple"
+      },
+      "supplements": {
+        "morning": ["Vitamin D3", "Omega-3", "Multivitamin"],
+        "evening": ["Magnesium", "Zinc"]
+      },
+      "exercise": {
+        "summary": "Mobility and flexibility training",
+        "details": "See exercise program for complete workout"
+      },
+      "habits": [
+        "Meditation - 10 minutes",
+        "Cold shower - 2 minutes",
+        "Reading - 30 minutes",
+        "Hydration - 3 liters of water"
+      ],
+      "quote": "Take care of your body. It's the only place you have to live. - Jim Rohn"
+    },
+    {
+      "date": "2025-05-05",
+      "meals": {
+        "breakfast": "Avocado toast on whole grain bread with poached eggs",
+        "lunch": "Grilled chicken salad with mixed greens and balsamic vinaigrette",
+        "dinner": "Vegetable stir-fry with tofu and brown rice",
+        "snacks": "Handful of almonds, protein bar"
+      },
+      "supplements": {
+        "morning": ["Vitamin D3", "Omega-3", "Multivitamin"],
+        "evening": ["Magnesium", "Zinc"]
+      },
+      "exercise": {
+        "summary": "Rest day - Light walking and stretching",
+        "details": "See exercise program for complete workout"
+      },
+      "habits": [
+        "Meditation - 15 minutes",
+        "Cold shower - 2 minutes",
+        "Digital detox - 2 hours",
+        "Hydration - 3 liters of water"
+      ],
+      "quote": "Rest and digest. Recovery is where the magic happens. - Unknown"
+    },
+    {
+      "date": "2025-05-06",
+      "meals": {
+        "breakfast": "Smoothie bowl with berries, banana, granola, and almond milk",
+        "lunch": "Quinoa bowl with roasted vegetables and grilled chicken",
+        "dinner": "Wild-caught salmon with steamed broccoli and sweet potato",
+        "snacks": "Hard-boiled eggs, fruit"
+      },
+      "supplements": {
+        "morning": ["Vitamin D3", "Omega-3", "Multivitamin"],
+        "evening": ["Magnesium", "Zinc"]
+      },
+      "exercise": {
+        "summary": "High-intensity interval training (HIIT)",
+        "details": "See exercise program for complete workout"
+      },
+      "habits": [
+        "Meditation - 10 minutes",
+        "Cold shower - 2 minutes",
+        "Journaling - 10 minutes",
+        "Hydration - 3 liters of water"
+      ],
+      "quote": "The body achieves what the mind believes. - Napoleon Hill"
+    }
+  ]
+}

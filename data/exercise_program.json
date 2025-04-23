@@ -1,0 +1,515 @@
+{
+  "version": "1.0",
+  "name": "12-Week Progressive Fitness Program",
+  "description": "A comprehensive 12-week exercise program focusing on balanced fitness, mobility, strength, and longevity",
+  "weeks": [
+    {
+      "weekNumber": 1,
+      "phase": "Foundation",
+      "days": [
+        {
+          "dayNumber": 1,
+          "focus": "Full Body Strength",
+          "homeWorkout": {
+            "warmup": [
+              {"exercise": "Arm circles", "duration": "30 seconds"},
+              {"exercise": "Jumping jacks", "duration": "1 minute"},
+              {"exercise": "High knees", "duration": "30 seconds"}
+            ],
+            "mainWorkout": [
+              {"exercise": "Push-ups", "sets": 3, "reps": "8-10"},
+              {"exercise": "Bodyweight squats", "sets": 3, "reps": "12-15"},
+              {"exercise": "Plank", "sets": 3, "duration": "30 seconds"},
+              {"exercise": "Glute bridges", "sets": 3, "reps": "12-15"}
+            ],
+            "cooldown": [
+              {"exercise": "Quad stretch", "duration": "30 seconds per side"},
+              {"exercise": "Hamstring stretch", "duration": "30 seconds per side"},
+              {"exercise": "Child's pose", "duration": "1 minute"}
+            ],
+            "equipment": ["Exercise mat"]
+          },
+          "gymWorkout": {
+            "warmup": [
+              {"exercise": "Treadmill walk", "duration": "5 minutes"},
+              {"exercise": "Arm circles", "duration": "30 seconds"},
+              {"exercise": "Bodyweight squats", "reps": "10"}
+            ],
+            "mainWorkout": [
+              {"exercise": "Dumbbell bench press", "sets": 3, "reps": "10-12"},
+              {"exercise": "Goblet squats", "sets": 3, "reps": "12-15"},
+              {"exercise": "Lat pulldowns", "sets": 3, "reps": "10-12"},
+              {"exercise": "Leg press", "sets": 3, "reps": "12-15"}
+            ],
+            "cooldown": [
+              {"exercise": "Quad stretch", "duration": "30 seconds per side"},
+              {"exercise": "Hamstring stretch", "duration": "30 seconds per side"},
+              {"exercise": "Foam rolling", "duration": "3 minutes"}
+            ],
+            "equipment": ["Dumbbells", "Kettlebell", "Lat pulldown machine", "Leg press machine", "Foam roller"]
+          }
+        },
+        {
+          "dayNumber": 2,
+          "focus": "Cardio & Mobility",
+          "homeWorkout": {
+            "warmup": [
+              {"exercise": "Marching in place", "duration": "1 minute"},
+              {"exercise": "Arm swings", "duration": "30 seconds"},
+              {"exercise": "Hip circles", "duration": "30 seconds each direction"}
+            ],
+            "mainWorkout": [
+              {"exercise": "Jumping jacks", "duration": "1 minute", "sets": 3, "rest": "30 seconds"},
+              {"exercise": "Mountain climbers", "duration": "45 seconds", "sets": 3, "rest": "30 seconds"},
+              {"exercise": "High knees", "duration": "45 seconds", "sets": 3, "rest": "30 seconds"}
+            ],
+            "cooldown": [
+              {"exercise": "Standing forward fold", "duration": "1 minute"},
+              {"exercise": "Seated twist", "duration": "30 seconds each side"},
+              {"exercise": "Deep breathing", "duration": "2 minutes"}
+            ],
+            "equipment": ["Exercise mat", "Timer"]
+          },
+          "gymWorkout": {
+            "warmup": [
+              {"exercise": "Stationary bike", "duration": "5 minutes"},
+              {"exercise": "Arm swings", "duration": "30 seconds"},
+              {"exercise": "Hip circles", "duration": "30 seconds each direction"}
+            ],
+            "mainWorkout": [
+              {"exercise": "Treadmill intervals", "sets": 5, "duration": "1 minute fast, 1 minute slow"},
+              {"exercise": "Rowing machine", "duration": "5 minutes", "intensity": "moderate"},
+              {"exercise": "Dynamic stretching circuit", "duration": "5 minutes"}
+            ],
+            "cooldown": [
+              {"exercise": "Treadmill walk", "duration": "3 minutes"},
+              {"exercise": "Foam rolling", "duration": "3 minutes"},
+              {"exercise": "Static stretching", "duration": "3 minutes"}
+            ],
+            "equipment": ["Treadmill", "Rowing machine", "Foam roller"]
+          }
+        },
+        {
+          "dayNumber": 3,
+          "focus": "Upper Body Focus",
+          "homeWorkout": {
+            "warmup": [
+              {"exercise": "Arm circles", "duration": "30 seconds each direction"},
+              {"exercise": "Shoulder rolls", "duration": "30 seconds"},
+              {"exercise": "Wall angels", "reps": "10"}
+            ],
+            "mainWorkout": [
+              {"exercise": "Push-ups (or modified push-ups)", "sets": 3, "reps": "8-12"},
+              {"exercise": "Tricep dips on chair", "sets": 3, "reps": "10-12"},
+              {"exercise": "Superman holds", "sets": 3, "duration": "20 seconds"},
+              {"exercise": "Plank shoulder taps", "sets": 3, "reps": "10 each side"}
+            ],
+            "cooldown": [
+              {"exercise": "Chest stretch", "duration": "30 seconds"},
+              {"exercise": "Tricep stretch", "duration": "30 seconds each arm"},
+              {"exercise": "Child's pose", "duration": "1 minute"}
+            ],
+            "equipment": ["Exercise mat", "Sturdy chair"]
+          },
+          "gymWorkout": {
+            "warmup": [
+              {"exercise": "Rowing machine", "duration": "3 minutes"},
+              {"exercise": "Arm circles", "duration": "30 seconds each direction"},
+              {"exercise": "Band pull-aparts", "reps": "15"}
+            ],
+            "mainWorkout": [
+              {"exercise": "Dumbbell chest press", "sets": 3, "reps": "10-12"},
+              {"exercise": "Cable rows", "sets": 3, "reps": "12-15"},
+              {"exercise": "Lateral raises", "sets": 3, "reps": "12-15"},
+              {"exercise": "Tricep pushdowns", "sets": 3, "reps": "12-15"}
+            ],
+            "cooldown": [
+              {"exercise": "Chest stretch", "duration": "30 seconds"},
+              {"exercise": "Lat stretch", "duration": "30 seconds each side"},
+              {"exercise": "Foam rolling upper back", "duration": "2 minutes"}
+            ],
+            "equipment": ["Dumbbells", "Cable machine", "Resistance bands", "Foam roller"]
+          }
+        },
+        {
+          "dayNumber": 4,
+          "focus": "REST DAY",
+          "description": "Take today to rest and recover. Focus on light activity like walking, gentle stretching, or yoga if desired. Proper recovery is essential for progress."
+        },
+        {
+          "dayNumber": 5,
+          "focus": "Lower Body Focus",
+          "homeWorkout": {
+            "warmup": [
+              {"exercise": "Marching in place", "duration": "1 minute"},
+              {"exercise": "Hip circles", "duration": "30 seconds each direction"},
+              {"exercise": "Ankle rotations", "duration": "30 seconds each ankle"}
+            ],
+            "mainWorkout": [
+              {"exercise": "Bodyweight squats", "sets": 3, "reps": "15-20"},
+              {"exercise": "Reverse lunges", "sets": 3, "reps": "10 each leg"},
+              {"exercise": "Glute bridges", "sets": 3, "reps": "15-20"},
+              {"exercise": "Calf raises", "sets": 3, "reps": "15-20"}
+            ],
+            "cooldown": [
+              {"exercise": "Quad stretch", "duration": "30 seconds each leg"},
+              {"exercise": "Hamstring stretch", "duration": "30 seconds each leg"},
+              {"exercise": "Calf stretch", "duration": "30 seconds each leg"}
+            ],
+            "equipment": ["Exercise mat", "Wall or chair for balance"]
+          },
+          "gymWorkout": {
+            "warmup": [
+              {"exercise": "Stationary bike", "duration": "5 minutes"},
+              {"exercise": "Bodyweight squats", "reps": "15"},
+              {"exercise": "Walking lunges", "reps": "10 each leg"}
+            ],
+            "mainWorkout": [
+              {"exercise": "Goblet squats", "sets": 3, "reps": "12-15"},
+              {"exercise": "Leg press", "sets": 3, "reps": "12-15"},
+              {"exercise": "Romanian deadlifts", "sets": 3, "reps": "10-12"},
+              {"exercise": "Seated calf raises", "sets": 3, "reps": "15-20"}
+            ],
+            "cooldown": [
+              {"exercise": "Quad stretch", "duration": "30 seconds each leg"},
+              {"exercise": "Hamstring stretch", "duration": "30 seconds each leg"},
+              {"exercise": "Foam rolling legs", "duration": "3 minutes"}
+            ],
+            "equipment": ["Kettlebell or dumbbell", "Leg press machine", "Barbell or dumbbells", "Calf raise machine", "Foam roller"]
+          }
+        },
+        {
+          "dayNumber": 6,
+          "focus": "Core & Flexibility",
+          "homeWorkout": {
+            "warmup": [
+              {"exercise": "Cat-cow stretch", "reps": "10"},
+              {"exercise": "Torso twists", "reps": "10 each side"},
+              {"exercise": "Hip bridges", "reps": "10"}
+            ],
+            "mainWorkout": [
+              {"exercise": "Plank", "sets": 3, "duration": "30-45 seconds"},
+              {"exercise": "Bicycle crunches", "sets": 3, "reps": "10 each side"},
+              {"exercise": "Bird-dog", "sets": 3, "reps": "10 each side"},
+              {"exercise": "Supermans", "sets": 3, "duration": "20 seconds"}
+            ],
+            "cooldown": [
+              {"exercise": "Child's pose", "duration": "1 minute"},
+              {"exercise": "Seated forward fold", "duration": "1 minute"},
+              {"exercise": "Spinal twist", "duration": "30 seconds each side"}
+            ],
+            "equipment": ["Exercise mat"]
+          },
+          "gymWorkout": {
+            "warmup": [
+              {"exercise": "Elliptical", "duration": "5 minutes"},
+              {"exercise": "Cat-cow stretch", "reps": "10"},
+              {"exercise": "Dead bugs", "reps": "10 each side"}
+            ],
+            "mainWorkout": [
+              {"exercise": "Cable rotations", "sets": 3, "reps": "12 each side"},
+              {"exercise": "Hanging leg raises (or captain's chair)", "sets": 3, "reps": "10-12"},
+              {"exercise": "Swiss ball crunches", "sets": 3, "reps": "15-20"},
+              {"exercise": "Plank variations", "sets": 3, "duration": "30-45 seconds"}
+            ],
+            "cooldown": [
+              {"exercise": "Foam rolling", "duration": "3 minutes"},
+              {"exercise": "Lying spinal twist", "duration": "30 seconds each side"},
+              {"exercise": "Child's pose", "duration": "1 minute"}
+            ],
+            "equipment": ["Cable machine", "Captain's chair or pull-up bar", "Swiss ball", "Foam roller", "Exercise mat"]
+          }
+        },
+        {
+          "dayNumber": 7,
+          "focus": "Active Recovery",
+          "homeWorkout": {
+            "warmup": [
+              {"exercise": "Light walking", "duration": "5 minutes"},
+              {"exercise": "Arm swings", "duration": "30 seconds"},
+              {"exercise": "Ankle rotations", "duration": "30 seconds each ankle"}
+            ],
+            "mainWorkout": [
+              {"exercise": "Walking", "duration": "20-30 minutes", "intensity": "moderate"},
+              {"exercise": "Full body stretching routine", "duration": "10 minutes"}
+            ],
+            "cooldown": [
+              {"exercise": "Deep breathing", "duration": "2 minutes"},
+              {"exercise": "Gentle stretching", "duration": "5 minutes"}
+            ],
+            "equipment": ["Comfortable shoes"]
+          },
+          "gymWorkout": {
+            "warmup": [
+              {"exercise": "Stationary bike", "duration": "5 minutes", "intensity": "light"},
+              {"exercise": "Dynamic stretching", "duration": "3 minutes"}
+            ],
+            "mainWorkout": [
+              {"exercise": "Swimming or water walking", "duration": "20 minutes", "intensity": "light to moderate"},
+              {"exercise": "Stretching circuit", "duration": "10 minutes"}
+            ],
+            "cooldown": [
+              {"exercise": "Sauna or steam room (if available)", "duration": "5-10 minutes"},
+              {"exercise": "Foam rolling", "duration": "5 minutes"}
+            ],
+            "equipment": ["Swimming pool access", "Foam roller"]
+          }
+        }
+      ]
+    },
+    {
+      "weekNumber": 2,
+      "phase": "Foundation",
+      "days": [
+        {
+          "dayNumber": 1,
+          "focus": "Full Body Strength",
+          "homeWorkout": {
+            "warmup": [
+              {"exercise": "Arm circles", "duration": "30 seconds"},
+              {"exercise": "Jumping jacks", "duration": "1 minute"},
+              {"exercise": "High knees", "duration": "30 seconds"}
+            ],
+            "mainWorkout": [
+              {"exercise": "Push-ups", "sets": 3, "reps": "10-12"},
+              {"exercise": "Bodyweight squats", "sets": 3, "reps": "15-20"},
+              {"exercise": "Plank", "sets": 3, "duration": "45 seconds"},
+              {"exercise": "Glute bridges", "sets": 3, "reps": "15-20"}
+            ],
+            "cooldown": [
+              {"exercise": "Quad stretch", "duration": "30 seconds per side"},
+              {"exercise": "Hamstring stretch", "duration": "30 seconds per side"},
+              {"exercise": "Child's pose", "duration": "1 minute"}
+            ],
+            "equipment": ["Exercise mat"]
+          },
+          "gymWorkout": {
+            "warmup": [
+              {"exercise": "Treadmill walk", "duration": "5 minutes"},
+              {"exercise": "Arm circles", "duration": "30 seconds"},
+              {"exercise": "Bodyweight squats", "reps": "10"}
+            ],
+            "mainWorkout": [
+              {"exercise": "Dumbbell bench press", "sets": 3, "reps": "10-12"},
+              {"exercise": "Goblet squats", "sets": 3, "reps": "12-15"},
+              {"exercise": "Lat pulldowns", "sets": 3, "reps": "10-12"},
+              {"exercise": "Leg press", "sets": 3, "reps": "12-15"}
+            ],
+            "cooldown": [
+              {"exercise": "Quad stretch", "duration": "30 seconds per side"},
+              {"exercise": "Hamstring stretch", "duration": "30 seconds per side"},
+              {"exercise": "Foam rolling", "duration": "3 minutes"}
+            ],
+            "equipment": ["Dumbbells", "Kettlebell", "Lat pulldown machine", "Leg press machine", "Foam roller"]
+          }
+        },
+        {
+          "dayNumber": 2,
+          "focus": "Cardio & Mobility",
+          "homeWorkout": {
+            "warmup": [
+              {"exercise": "Marching in place", "duration": "1 minute"},
+              {"exercise": "Arm swings", "duration": "30 seconds"},
+              {"exercise": "Hip circles", "duration": "30 seconds each direction"}
+            ],
+            "mainWorkout": [
+              {"exercise": "Jumping jacks", "duration": "1 minute", "sets": 3, "rest": "30 seconds"},
+              {"exercise": "Mountain climbers", "duration": "45 seconds", "sets": 3, "rest": "30 seconds"},
+              {"exercise": "High knees", "duration": "45 seconds", "sets": 3, "rest": "30 seconds"}
+            ],
+            "cooldown": [
+              {"exercise": "Standing forward fold", "duration": "1 minute"},
+              {"exercise": "Seated twist", "duration": "30 seconds each side"},
+              {"exercise": "Deep breathing", "duration": "2 minutes"}
+            ],
+            "equipment": ["Exercise mat", "Timer"]
+          },
+          "gymWorkout": {
+            "warmup": [
+              {"exercise": "Stationary bike", "duration": "5 minutes"},
+              {"exercise": "Arm swings", "duration": "30 seconds"},
+              {"exercise": "Hip circles", "duration": "30 seconds each direction"}
+            ],
+            "mainWorkout": [
+              {"exercise": "Treadmill intervals", "sets": 5, "duration": "1 minute fast, 1 minute slow"},
+              {"exercise": "Rowing machine", "duration": "5 minutes", "intensity": "moderate"},
+              {"exercise": "Dynamic stretching circuit", "duration": "5 minutes"}
+            ],
+            "cooldown": [
+              {"exercise": "Treadmill walk", "duration": "3 minutes"},
+              {"exercise": "Foam rolling", "duration": "3 minutes"},
+              {"exercise": "Static stretching", "duration": "3 minutes"}
+            ],
+            "equipment": ["Treadmill", "Rowing machine", "Foam roller"]
+          }
+        },
+        {
+          "dayNumber": 3,
+          "focus": "Upper Body Focus",
+          "homeWorkout": {
+            "warmup": [
+              {"exercise": "Arm circles", "duration": "30 seconds each direction"},
+              {"exercise": "Shoulder rolls", "duration": "30 seconds"},
+              {"exercise": "Wall angels", "reps": "10"}
+            ],
+            "mainWorkout": [
+              {"exercise": "Push-ups (or modified push-ups)", "sets": 3, "reps": "8-12"},
+              {"exercise": "Tricep dips on chair", "sets": 3, "reps": "10-12"},
+              {"exercise": "Superman holds", "sets": 3, "duration": "20 seconds"},
+              {"exercise": "Plank shoulder taps", "sets": 3, "reps": "10 each side"}
+            ],
+            "cooldown": [
+              {"exercise": "Chest stretch", "duration": "30 seconds"},
+              {"exercise": "Tricep stretch", "duration": "30 seconds each arm"},
+              {"exercise": "Child's pose", "duration": "1 minute"}
+            ],
+            "equipment": ["Exercise mat", "Sturdy chair"]
+          },
+          "gymWorkout": {
+            "warmup": [
+              {"exercise": "Rowing machine", "duration": "3 minutes"},
+              {"exercise": "Arm circles", "duration": "30 seconds each direction"},
+              {"exercise": "Band pull-aparts", "reps": "15"}
+            ],
+            "mainWorkout": [
+              {"exercise": "Dumbbell chest press", "sets": 3, "reps": "10-12"},
+              {"exercise": "Cable rows", "sets": 3, "reps": "12-15"},
+              {"exercise": "Lateral raises", "sets": 3, "reps": "12-15"},
+              {"exercise": "Tricep pushdowns", "sets": 3, "reps": "12-15"}
+            ],
+            "cooldown": [
+              {"exercise": "Chest stretch", "duration": "30 seconds"},
+              {"exercise": "Lat stretch", "duration": "30 seconds each side"},
+              {"exercise": "Foam rolling upper back", "duration": "2 minutes"}
+            ],
+            "equipment": ["Dumbbells", "Cable machine", "Resistance bands", "Foam roller"]
+          }
+        },
+        {
+          "dayNumber": 4,
+          "focus": "REST DAY",
+          "description": "Take today to rest and recover. Focus on light activity like walking, gentle stretching, or yoga if desired. Proper recovery is essential for progress."
+        },
+        {
+          "dayNumber": 5,
+          "focus": "Lower Body Focus",
+          "homeWorkout": {
+            "warmup": [
+              {"exercise": "Marching in place", "duration": "1 minute"},
+              {"exercise": "Hip circles", "duration": "30 seconds each direction"},
+              {"exercise": "Ankle rotations", "duration": "30 seconds each ankle"}
+            ],
+            "mainWorkout": [
+              {"exercise": "Bodyweight squats", "sets": 3, "reps": "15-20"},
+              {"exercise": "Reverse lunges", "sets": 3, "reps": "10 each leg"},
+              {"exercise": "Glute bridges", "sets": 3, "reps": "15-20"},
+              {"exercise": "Calf raises", "sets": 3, "reps": "15-20"}
+            ],
+            "cooldown": [
+              {"exercise": "Quad stretch", "duration": "30 seconds each leg"},
+              {"exercise": "Hamstring stretch", "duration": "30 seconds each leg"},
+              {"exercise": "Calf stretch", "duration": "30 seconds each leg"}
+            ],
+            "equipment": ["Exercise mat", "Wall or chair for balance"]
+          },
+          "gymWorkout": {
+            "warmup": [
+              {"exercise": "Stationary bike", "duration": "5 minutes"},
+              {"exercise": "Bodyweight squats", "reps": "15"},
+              {"exercise": "Walking lunges", "reps": "10 each leg"}
+            ],
+            "mainWorkout": [
+              {"exercise": "Goblet squats", "sets": 3, "reps": "12-15"},
+              {"exercise": "Leg press", "sets": 3, "reps": "12-15"},
+              {"exercise": "Romanian deadlifts", "sets": 3, "reps": "10-12"},
+              {"exercise": "Seated calf raises", "sets": 3, "reps": "15-20"}
+            ],
+            "cooldown": [
+              {"exercise": "Quad stretch", "duration": "30 seconds each leg"},
+              {"exercise": "Hamstring stretch", "duration": "30 seconds each leg"},
+              {"exercise": "Foam rolling legs", "duration": "3 minutes"}
+            ],
+            "equipment": ["Kettlebell or dumbbell", "Leg press machine", "Barbell or dumbbells", "Calf raise machine", "Foam roller"]
+          }
+        },
+        {
+          "dayNumber": 6,
+          "focus": "Core & Flexibility",
+          "homeWorkout": {
+            "warmup": [
+              {"exercise": "Cat-cow stretch", "reps": "10"},
+              {"exercise": "Torso twists", "reps": "10 each side"},
+              {"exercise": "Hip bridges", "reps": "10"}
+            ],
+            "mainWorkout": [
+              {"exercise": "Plank", "sets": 3, "duration": "30-45 seconds"},
+              {"exercise": "Bicycle crunches", "sets": 3, "reps": "10 each side"},
+              {"exercise": "Bird-dog", "sets": 3, "reps": "10 each side"},
+              {"exercise": "Supermans", "sets": 3, "duration": "20 seconds"}
+            ],
+            "cooldown": [
+              {"exercise": "Child's pose", "duration": "1 minute"},
+              {"exercise": "Seated forward fold", "duration": "1 minute"},
+              {"exercise": "Spinal twist", "duration": "30 seconds each side"}
+            ],
+            "equipment": ["Exercise mat"]
+          },
+          "gymWorkout": {
+            "warmup": [
+              {"exercise": "Elliptical", "duration": "5 minutes"},
+              {"exercise": "Cat-cow stretch", "reps": "10"},
+              {"exercise": "Dead bugs", "reps": "10 each side"}
+            ],
+            "mainWorkout": [
+              {"exercise": "Cable rotations", "sets": 3, "reps": "12 each side"},
+              {"exercise": "Hanging leg raises (or captain's chair)", "sets": 3, "reps": "10-12"},
+              {"exercise": "Swiss ball crunches", "sets": 3, "reps": "15-20"},
+              {"exercise": "Plank variations", "sets": 3, "duration": "30-45 seconds"}
+            ],
+            "cooldown": [
+              {"exercise": "Foam rolling", "duration": "3 minutes"},
+              {"exercise": "Lying spinal twist", "duration": "30 seconds each side"},
+              {"exercise": "Child's pose", "duration": "1 minute"}
+            ],
+            "equipment": ["Cable machine", "Captain's chair or pull-up bar", "Swiss ball", "Foam roller", "Exercise mat"]
+          }
+        },
+        {
+          "dayNumber": 7,
+          "focus": "Active Recovery",
+          "homeWorkout": {
+            "warmup": [
+              {"exercise": "Light walking", "duration": "5 minutes"},
+              {"exercise": "Arm swings", "duration": "30 seconds"},
+              {"exercise": "Ankle rotations", "duration": "30 seconds each ankle"}
+            ],
+            "mainWorkout": [
+              {"exercise": "Walking", "duration": "20-30 minutes", "intensity": "moderate"},
+              {"exercise": "Full body stretching routine", "duration": "10 minutes"}
+            ],
+            "cooldown": [
+              {"exercise": "Deep breathing", "duration": "2 minutes"},
+              {"exercise": "Gentle stretching", "duration": "5 minutes"}
+            ],
+            "equipment": ["Comfortable shoes"]
+          },
+          "gymWorkout": {
+            "warmup": [
+              {"exercise": "Stationary bike", "duration": "5 minutes", "intensity": "light"},
+              {"exercise": "Dynamic stretching", "duration": "3 minutes"}
+            ],
+            "mainWorkout": [
+              {"exercise": "Swimming or water walking", "duration": "20 minutes", "intensity": "light to moderate"},
+              {"exercise": "Stretching circuit", "duration": "10 minutes"}
+            ],
+            "cooldown": [
+              {"exercise": "Sauna or steam room (if available)", "duration": "5-10 minutes"},
+              {"exercise": "Foam rolling", "duration": "5 minutes"}
+            ],
+            "equipment": ["Swimming pool access", "Foam roller"]
+          }
+        }
+      ]
+    }
+  ]
+}
